@@ -181,6 +181,80 @@
         "description": "movie",
         "altText": "poster"
       }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "title": "از شر سخن مگو",
+        "srcPortraite": "./resource/image/news/speakNoEvil.png",
+        "genre": ["وحشت", "درام"],
+        "country": ["آمریکا", "کرواسی"],
+        "year": 2024,
+        "IMDB": "7 / 10"
+      },
+      {
+        "id": 2,
+        "title": "افسانه زو",
+        "srcPortraite": "./resource/image/news/legend.png",
+        "genre": ["عاشقانه", "درام"],
+        "country": "چین",
+        "year": 2015,
+        "IMDB": "5.5 / 10"
+      },
+      {
+        "id": 3,
+        "title": "سه دختر او",
+        "srcPortraite": "./resource/image/news/hisThreeDaughters.png",
+        "genre": ["خانوادگی", "درام"],
+        "country": "آمریکا",
+        "year": 2014,
+        "IMDB": "7.2 / 10"
+      },
+      {
+        "id": 4,
+        "title": "آپارتمان 7A",
+        "srcPortraite": "./resource/image/news/apartment7A.png",
+        "genre": ["هیجان انگیز", "وحشت"],
+        "country": ["آمریکا", "استرالیا"],
+        "year": 2024,
+        "IMDB": "5.8 / 10"
+      },
+      {
+        "id": 5,
+        "title": "برادر کوچک تر",
+        "srcPortraite": "./resource/image/news/littleBrother.png",
+        "genre": ["درام", "کمدی"],
+        "country": "آمریکا",
+        "year": 2024,
+        "IMDB": "7.5 / 10"
+      },
+      {
+        "id": 6,
+        "title": "گرگ ها",
+        "srcPortraite": "./resource/image/news/wolfs.png",
+        "genre": ["جنایی", "هیجان انگیز"],
+        "country": ["انگلیس", "آمریکا"],
+        "year": 2024,
+        "IMDB": "6.5 / 10"
+      },
+      {
+        "id": 7,
+        "title": "افسانه درخت نارون",
+        "srcPortraite": "./resource/image/news/karagacDestani.png",
+        "genre": ["درام", "خانوادگی"],
+        "country": "ترکیه",
+        "year": 2024,
+        "IMDB": "8.2 / 10"
+      },
+      {
+        "id": 8,
+        "title": "بازی آدمکش",
+        "srcPortraite": "./resource/image/news/killer'sGame.png",
+        "genre": ["اکشن", "کمدی"],
+        "country": "آمریکا",
+        "year": 2024,
+        "IMDB": "5.7 / 10"
+      }
     ]
   }
   
