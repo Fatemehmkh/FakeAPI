@@ -1,260 +1,331 @@
 {
-    "special": [
-      {
-        "id": 1,
-        "nameEN": "Loser",
-        "nameFA": "بازنده",
-        "year": 1403,
-        "genre": ["رازآلود", "جنایی"],
-        "country": "ایران",
-        "title": "اختصاصی فیلیمو",
-        "srcLandscape": "./resource/image/special section/looser-landscape.png",
-        "srcPortraite": "./resource/image/special section/looser-portraite.png",
-        "description": "actor on the sofa",
-        "altText": "poster of loser"
-      },
-      {
-        "id": 2,
-        "nameEN": "Gol ya pooch",
-        "nameFA": "گل یا پوچ",
-        "year": 1403,
-        "genre": "ریلیتی شو",
-        "country": "ایران",
-        "title": "اختصاصی فیلیمو",
-        "srcLandscape": "./resource/image/special section/golYaPooch-landscape.png",
-        "srcPortraite": "./resource/image/special section/looser-portraite.png",
-        "description": "Mehran Modiri pic",
-        "altText": "poster of gol ya pooch"
-      },
-      {
-        "id": 3,
-        "nameEN": "Joker",
-        "nameFA": "جوکر",
-        "year": 1403,
-        "genre": "ریلیتی شو",
-        "country": "ایران",
-        "title": "اختصاصی فیلیمو",
-        "srcLandscape": "./resource/image/special section/joker-landscape.png",
-        "srcPortraite": "./resource/image/special section/joker-portraite.png",
-        "description": "actress laughing together",
-        "altText": "poster of joker"
-      },
-      {
-        "id": 4,
-        "nameEN": "Lalaei",
-        "nameFA": "لالایی",
-        "year": 1403,
-        "genre": "خانوادگی",
-        "country": "ایران",
-        "srcLandscape": "./resource/image/special section/lalaei-landscape.png",
-        "srcPortraite": "./resource/image/special section/lalaei-portraite.png",
-        "description": "poorang uncle",
-        "altText": "poster of Lalaei"
-      },
-      {
-        "id": 5,
-        "nameEN": "Karmani",
-        "nameFA": "کارمانی",
-        "country": "ایران",
-        "year": 1403,
-        "genre": "ریلیتی شو",
-        "srcLandscape": "./resource/image/special section/karmani-landscape.png",
-        "srcPortraite": "./resource/image/special section/karmani-portraite.png",
-        "description": "actors",
-        "altText": "poster of karmani"
-      },
-      {
-        "id": 6,
-        "nameEN": "Penguin",
-        "nameFA": "پنگوئن",
-        "country": "آمریکا",
-        "year": 2024,
-        "genre": ["جنایی", "درام"],
-        "srcLandscape": "./resource/image/special section/penguin-landscape.png",
-        "srcPortraite": "./resource/image/special section/penguin-portraite.png",
-        "description": "realityShow",
-        "altText": "poster"
-      },
-      {
-        "id": 7,
-        "nameEN": "Last straw",
-        "nameFA": "تیر خلاص",
-        "country": "آمریکا",
-        "year": 2023,
-        "genre": ["وحشت", "هیجان انگیز"],
-        "srcLandscape": "./resource/image/special section/lastStraw-landscape.png",
-        "srcPortraite": "./resource/image/special section/lastStraw-portraite.png",
-        "description": "movie",
-        "altText": "poster"
-      },
-      {
-        "id": 8,
-        "nameEN": "35milimetri",
-        "nameFA": "35 میلیمتری",
-        "country": "ایران",
-        "year": 1403,
-        "srcLandscape": "./resource/image/special section/fiveMilimetri-landscape.png",
-        "srcPortraite": "./resource/image/special section/fiveMilimetri-portraite.png",
-        "description": "movie",
-        "altText": "poster"
-      },
-      {
-        "id": 9,
-        "nameEN": "LongGoneHeroes",
-        "nameFA": "قهرمانان از دست رفته",
-        "country": "آمریکا",
-        "year": 2024,
-        "srcLandscape": "./resource/image/special section/longGoneHeroes-landscape.png",
-        "srcPortraite": "./resource/image/special section/longGoneHeroes-portraite.png",
-        "description": "movie",
-        "altText": "poster"
-      },
-      {
-        "id": 10,
-        "nameEN": "Strawberry Shortcake's Spring Spectacular",
-        "nameFA": "کارتون دختر توت فرنگی در جشنواره گل",
-        "country": "آمریکا",
-        "genre": ["انیمیشن", "ماجراجویی"],
-        "year": 2024,
-        "srcLandscape": "./resource/image/special section/strawberry-landscape.png",
-        "srcPortraite": "./resource/image/special section/strawberry-portraite.png",
-        "description": "cartoon",
-        "altText": "poster"
-      },
-      {
-        "id": 11,
-        "nameEN": "vertigo",
-        "nameFA": "سرگیجه",
-        "country": "ایران",
-        "year": 1403,
-        "genre": "ریلیتی شو",
-        "srcLandscape": "./resource/image/special section/sargije-landscape.png",
-        "srcPortraite": "./resource/image/special section/sargije-portraite.png",
-        "description": "movie",
-        "altText": "poster"
-      },
-      {
-        "id": 12,
-        "nameEN": "Strawberry Shortcake",
-        "nameFA": "کیک توت فرنگی",
-        "country": "آمریکا",
-        "year": 2021,
-        "genre": ["انیمیشن", "خانوادگی"],
-        "srcLandscape": "./resource/image/special section/StrawberryCakes-landscape.png",
-        "srcPortraite": "./resource/image/special section/strawberryCakes-portraite.png",
-        "description": "cartoon",
-        "altText": "poster"
-      },
-      {
-        "id": 13,
-        "nameEN": "Bitter Sweet Hell",
-        "nameFA": "جهنم تلخ و شیرین",
-        "country": "کره جنوبی",
-        "year": 2024,
-        "genre": ["کمدی", "درام"],
-        "srcLandscape": "./resource/image/special section/bitterSweetHell-lanscape.png",
-        "srcPortraite": "./resource/image/special section/bitterSweetHell-portraite.png",
-        "description": "movie",
-        "altText": "poster"
-      },
-      {
-        "id": 14,
-        "nameEN": "Bamse and the World’s Smallest Adventure",
-        "nameFA": "بامزی و کوچکترین ماجراجویی دنیا",
-        "country": "سوئد",
-        "year": 2023,
-        "genre": ["انیمیشن", "ماجراجویی"],
-        "srcLandscape": "./resource/image/special section/bamse-landscape.png",
-        "srcPortraite": "./resource/image/special section/bamse-portraite.png",
-        "description": "cartoon",
-        "altText": "poster"
-      },
-      {
-        "id": 15,
-        "nameEN": "Hounds of War",
-        "nameFA": "سگ های جنگ",
-        "country": "آمریکا",
-        "year": 2024,
-        "genre": ["درام", "اکشن"],
-        "srcLandscape": "./resource/image/special section/houndsOfWar-landscape.png",
-        "srcPortraite": "./resource/image/special section/houndsOfWar-portraite.png",
-        "description": "movie",
-        "altText": "poster"
-      }
-    ],
-    "news": [
-      {
-        "id": 1,
-        "title": "از شر سخن مگو",
-        "srcPortraite": "./resource/image/news/speakNoEvil.png",
-        "genre": ["وحشت", "درام"],
-        "country": ["آمریکا", "کرواسی"],
-        "year": 2024,
-        "IMDB": "7 / 10"
-      },
-      {
-        "id": 2,
-        "title": "افسانه زو",
-        "srcPortraite": "./resource/image/news/legend.png",
-        "genre": ["عاشقانه", "درام"],
-        "country": "چین",
-        "year": 2015,
-        "IMDB": "5.5 / 10"
-      },
-      {
-        "id": 3,
-        "title": "سه دختر او",
-        "srcPortraite": "./resource/image/news/hisThreeDaughters.png",
-        "genre": ["خانوادگی", "درام"],
-        "country": "آمریکا",
-        "year": 2014,
-        "IMDB": "7.2 / 10"
-      },
-      {
-        "id": 4,
-        "title": "آپارتمان 7A",
-        "srcPortraite": "./resource/image/news/apartment7A.png",
-        "genre": ["هیجان انگیز", "وحشت"],
-        "country": ["آمریکا", "استرالیا"],
-        "year": 2024,
-        "IMDB": "5.8 / 10"
-      },
-      {
-        "id": 5,
-        "title": "برادر کوچک تر",
-        "srcPortraite": "./resource/image/news/littleBrother.png",
-        "genre": ["درام", "کمدی"],
-        "country": "آمریکا",
-        "year": 2024,
-        "IMDB": "7.5 / 10"
-      },
-      {
-        "id": 6,
-        "title": "گرگ ها",
-        "srcPortraite": "./resource/image/news/wolfs.png",
-        "genre": ["جنایی", "هیجان انگیز"],
-        "country": ["انگلیس", "آمریکا"],
-        "year": 2024,
-        "IMDB": "6.5 / 10"
-      },
-      {
-        "id": 7,
-        "title": "افسانه درخت نارون",
-        "srcPortraite": "./resource/image/news/karagacDestani.png",
-        "genre": ["درام", "خانوادگی"],
-        "country": "ترکیه",
-        "year": 2024,
-        "IMDB": "8.2 / 10"
-      },
-      {
-        "id": 8,
-        "title": "بازی آدمکش",
-        "srcPortraite": "./resource/image/news/killer'sGame.png",
-        "genre": ["اکشن", "کمدی"],
-        "country": "آمریکا",
-        "year": 2024,
-        "IMDB": "5.7 / 10"
-      }
-    ]
-  }
-  
+  "special": [
+    {
+      "id": 1,
+      "nameEN": "Loser",
+      "nameFA": "بازنده",
+      "year": 1403,
+      "genre": ["رازآلود", "جنایی"],
+      "country": "ایران",
+      "title": "اختصاصی فیلیمو",
+      "srcLandscape": "./resource/image/special section/looser-landscape.png",
+      "srcPortraite": "./resource/image/special section/looser-portraite.png",
+      "description": "actor on the sofa",
+      "altText": "poster of loser"
+    },
+    {
+      "id": 2,
+      "nameEN": "Gol ya pooch",
+      "nameFA": "گل یا پوچ",
+      "year": 1403,
+      "genre": "ریلیتی شو",
+      "country": "ایران",
+      "title": "اختصاصی فیلیمو",
+      "srcLandscape": "./resource/image/special section/golYaPooch-landscape.png",
+      "srcPortraite": "./resource/image/special section/looser-portraite.png",
+      "description": "Mehran Modiri pic",
+      "altText": "poster of gol ya pooch"
+    },
+    {
+      "id": 3,
+      "nameEN": "Joker",
+      "nameFA": "جوکر",
+      "year": 1403,
+      "genre": "ریلیتی شو",
+      "country": "ایران",
+      "title": "اختصاصی فیلیمو",
+      "srcLandscape": "./resource/image/special section/joker-landscape.png",
+      "srcPortraite": "./resource/image/special section/joker-portraite.png",
+      "description": "actress laughing together",
+      "altText": "poster of joker"
+    },
+    {
+      "id": 4,
+      "nameEN": "Lalaei",
+      "nameFA": "لالایی",
+      "year": 1403,
+      "genre": "خانوادگی",
+      "country": "ایران",
+      "srcLandscape": "./resource/image/special section/lalaei-landscape.png",
+      "srcPortraite": "./resource/image/special section/lalaei-portraite.png",
+      "description": "poorang uncle",
+      "altText": "poster of Lalaei"
+    },
+    {
+      "id": 5,
+      "nameEN": "Karmani",
+      "nameFA": "کارمانی",
+      "country": "ایران",
+      "year": 1403,
+      "genre": "ریلیتی شو",
+      "srcLandscape": "./resource/image/special section/karmani-landscape.png",
+      "srcPortraite": "./resource/image/special section/karmani-portraite.png",
+      "description": "actors",
+      "altText": "poster of karmani"
+    },
+    {
+      "id": 6,
+      "nameEN": "Penguin",
+      "nameFA": "پنگوئن",
+      "country": "آمریکا",
+      "year": 2024,
+      "genre": ["جنایی", "درام"],
+      "srcLandscape": "./resource/image/special section/penguin-landscape.png",
+      "srcPortraite": "./resource/image/special section/penguin-portraite.png",
+      "description": "realityShow",
+      "altText": "poster"
+    },
+    {
+      "id": 7,
+      "nameEN": "Last straw",
+      "nameFA": "تیر خلاص",
+      "country": "آمریکا",
+      "year": 2023,
+      "genre": ["وحشت", "هیجان انگیز"],
+      "srcLandscape": "./resource/image/special section/lastStraw-landscape.png",
+      "srcPortraite": "./resource/image/special section/lastStraw-portraite.png",
+      "description": "movie",
+      "altText": "poster"
+    },
+    {
+      "id": 8,
+      "nameEN": "35milimetri",
+      "nameFA": "35 میلیمتری",
+      "country": "ایران",
+      "year": 1403,
+      "srcLandscape": "./resource/image/special section/fiveMilimetri-landscape.png",
+      "srcPortraite": "./resource/image/special section/fiveMilimetri-portraite.png",
+      "description": "movie",
+      "altText": "poster"
+    },
+    {
+      "id": 9,
+      "nameEN": "LongGoneHeroes",
+      "nameFA": "قهرمانان از دست رفته",
+      "country": "آمریکا",
+      "year": 2024,
+      "srcLandscape": "./resource/image/special section/longGoneHeroes-landscape.png",
+      "srcPortraite": "./resource/image/special section/longGoneHeroes-portraite.png",
+      "description": "movie",
+      "altText": "poster"
+    },
+    {
+      "id": 10,
+      "nameEN": "Strawberry Shortcake's Spring Spectacular",
+      "nameFA": "کارتون دختر توت فرنگی در جشنواره گل",
+      "country": "آمریکا",
+      "genre": ["انیمیشن", "ماجراجویی"],
+      "year": 2024,
+      "srcLandscape": "./resource/image/special section/strawberry-landscape.png",
+      "srcPortraite": "./resource/image/special section/strawberry-portraite.png",
+      "description": "cartoon",
+      "altText": "poster"
+    },
+    {
+      "id": 11,
+      "nameEN": "vertigo",
+      "nameFA": "سرگیجه",
+      "country": "ایران",
+      "year": 1403,
+      "genre": "ریلیتی شو",
+      "srcLandscape": "./resource/image/special section/sargije-landscape.png",
+      "srcPortraite": "./resource/image/special section/sargije-portraite.png",
+      "description": "movie",
+      "altText": "poster"
+    },
+    {
+      "id": 12,
+      "nameEN": "Strawberry Shortcake",
+      "nameFA": "کیک توت فرنگی",
+      "country": "آمریکا",
+      "year": 2021,
+      "genre": ["انیمیشن", "خانوادگی"],
+      "srcLandscape": "./resource/image/special section/StrawberryCakes-landscape.png",
+      "srcPortraite": "./resource/image/special section/strawberryCakes-portraite.png",
+      "description": "cartoon",
+      "altText": "poster"
+    },
+    {
+      "id": 13,
+      "nameEN": "Bitter Sweet Hell",
+      "nameFA": "جهنم تلخ و شیرین",
+      "country": "کره جنوبی",
+      "year": 2024,
+      "genre": ["کمدی", "درام"],
+      "srcLandscape": "./resource/image/special section/bitterSweetHell-lanscape.png",
+      "srcPortraite": "./resource/image/special section/bitterSweetHell-portraite.png",
+      "description": "movie",
+      "altText": "poster"
+    },
+    {
+      "id": 14,
+      "nameEN": "Bamse and the World’s Smallest Adventure",
+      "nameFA": "بامزی و کوچکترین ماجراجویی دنیا",
+      "country": "سوئد",
+      "year": 2023,
+      "genre": ["انیمیشن", "ماجراجویی"],
+      "srcLandscape": "./resource/image/special section/bamse-landscape.png",
+      "srcPortraite": "./resource/image/special section/bamse-portraite.png",
+      "description": "cartoon",
+      "altText": "poster"
+    },
+    {
+      "id": 15,
+      "nameEN": "Hounds of War",
+      "nameFA": "سگ های جنگ",
+      "country": "آمریکا",
+      "year": 2024,
+      "genre": ["درام", "اکشن"],
+      "srcLandscape": "./resource/image/special section/houndsOfWar-landscape.png",
+      "srcPortraite": "./resource/image/special section/houndsOfWar-portraite.png",
+      "description": "movie",
+      "altText": "poster"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "از شر سخن مگو",
+      "srcPortraite": "./resource/image/news/speakNoEvil.png",
+      "genre": ["وحشت", "درام"],
+      "country": ["آمریکا", "کرواسی"],
+      "year": 2024,
+      "IMDB": "7 / 10"
+    },
+    {
+      "id": 2,
+      "title": "افسانه زو",
+      "srcPortraite": "./resource/image/news/legend.png",
+      "genre": ["عاشقانه", "درام"],
+      "country": "چین",
+      "year": 2015,
+      "IMDB": "5.5 / 10"
+    },
+    {
+      "id": 3,
+      "title": "سه دختر او",
+      "srcPortraite": "./resource/image/news/hisThreeDaughters.png",
+      "genre": ["خانوادگی", "درام"],
+      "country": "آمریکا",
+      "year": 2014,
+      "IMDB": "7.2 / 10"
+    },
+    {
+      "id": 4,
+      "title": "آپارتمان 7A",
+      "srcPortraite": "./resource/image/news/apartment7A.png",
+      "genre": ["هیجان انگیز", "وحشت"],
+      "country": ["آمریکا", "استرالیا"],
+      "year": 2024,
+      "IMDB": "5.8 / 10"
+    },
+    {
+      "id": 5,
+      "title": "برادر کوچک تر",
+      "srcPortraite": "./resource/image/news/littleBrother.png",
+      "genre": ["درام", "کمدی"],
+      "country": "آمریکا",
+      "year": 2024,
+      "IMDB": "7.5 / 10"
+    },
+    {
+      "id": 6,
+      "title": "گرگ ها",
+      "srcPortraite": "./resource/image/news/wolfs.png",
+      "genre": ["جنایی", "هیجان انگیز"],
+      "country": ["انگلیس", "آمریکا"],
+      "year": 2024,
+      "IMDB": "6.5 / 10"
+    },
+    {
+      "id": 7,
+      "title": "افسانه درخت نارون",
+      "srcPortraite": "./resource/image/news/karagacDestani.png",
+      "genre": ["درام", "خانوادگی"],
+      "country": "ترکیه",
+      "year": 2024,
+      "IMDB": "8.2 / 10"
+    },
+    {
+      "id": 8,
+      "title": "بازی آدمکش",
+      "srcPortraite": "./resource/image/news/killer'sGame.png",
+      "genre": ["اکشن", "کمدی"],
+      "country": "آمریکا",
+      "year": 2024,
+      "IMDB": "5.7 / 10"
+    }
+  ],
+  "hot": [
+    {
+      "id": 1,
+      "title": "بی بدن",
+      "srcPortraite": "./resource/image/hot/bibadan.png",
+      "genre": ["جنایی", "درام"],
+      "country": "ایران",
+      "year": 1402,
+      "IMDB": "5.7 / 10"
+    },
+    {
+      "id": 2,
+      "title": "پلتفرم 2",
+      "srcPortraite": "./resource/image/hot/platform.png",
+      "genre": ["علمی تخیلی", "وحشت"],
+      "country": "اسپانیا",
+      "year": 2024,
+      "IMDB": "6.7 / 10"
+    },
+    {
+      "id": 3,
+      "title": "پریا",
+      "srcPortraite": "./resource/image/hot/paria.png",
+      "genre": ["خانوادگی", "درام"],
+      "country": "ایران",
+      "year": 1403
+    },
+    {
+      "id": 4,
+      "title": "گل یا پوچ",
+      "srcPortraite": "./resource/image/hot/golYaPooch.png",
+      "genre": "ریلیتی شو",
+      "country": "ایران",
+      "year": 1403
+    },
+    {
+      "id": 5,
+      "title": "علف زار",
+      "srcPortraite": "./resource/image/hot/alafzar.png",
+      "genre": ["بیوگرافی", "جنایی"],
+      "country": "ایران",
+      "year": 1400,
+      "IMDB": "6.5 / 10"
+    },
+    {
+      "id": 6,
+      "title": "شنای پروانه",
+      "srcPortraite": "./resource/image/hot/shenayeParvane.png",
+      "genre": ["جنایی", "درام"],
+      "country": "ایران",
+      "year": 1398,
+      "IMDB": "7.5 / 10"
+    },
+    {
+      "id": 7,
+      "title": "بازی آدمکش",
+      "srcPortraite": "./resource/image/hot/killer'sGame.png",
+      "genre": ["اکشن", "کمدی"],
+      "country": "آمریکا",
+      "year": 2024,
+      "IMDB": "7.5 / 10"
+    },
+    {
+      "id": 8,
+      "title": "گرگ ها",
+      "srcPortraite": "./resource/image/hot/wolfs.png",
+      "genre": ["جنایی", "هیجان انگیز"],
+      "country": ["آمریکا", "انگلیس"],
+      "year": 2024,
+      "IMDB": "6.5 / 10"
+    }
+  ]
+}
