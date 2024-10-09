@@ -349,7 +349,6 @@
     },
     {
       "id": 3,
-      "title": "",
       "nameFA": "میخواهم  زنده بمانم",
       "episode": "فصل 1 قسمت 1",
       "srcLandscape": "./resource/image/specialSeries/mikhahamZendeBemanam.png",
@@ -367,7 +366,6 @@
     },
     {
       "id": 5,
-      "title": "",
       "nameFA": "نیسان آبی",
       "episode": "فصل 1 قسمت 1",
       "srcLandscape": "./resource/image/specialSeries/neysaneAbi.png",
