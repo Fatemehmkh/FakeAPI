@@ -358,11 +358,11 @@
     {
       "id": 4,
       "title": "اختصاصی فیلیمو",
-      "nameFA": "میخواهم  زنده بمانم",
+      "nameFA": "زخم کاری",
       "episode": "فصل 1 قسمت 1",
-      "srcLandscape": "./resource/image/specialSeries/mikhahamZendeBemanam.png",
-      "genre": ["درام", "عاشقانه"],
-      "IMDB": "10 / 7.4"
+      "srcLandscape": "./resource/image/specialSeries/zakhmeKari.png",
+      "genre": ["درام", "رازآلود"],
+      "IMDB": "10 / 7.6"
     },
     {
       "id": 5,
